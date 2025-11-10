@@ -1,10 +1,10 @@
-# 🩺 Diabetes Predictor (Logistic Regression from Scratch)
+Diabetes Predictor (Logistic Regression from Scratch)
 
 This project is a custom-built **Logistic Regression** model in Python to predict diabetes. It's built "from scratch" using NumPy and includes **L2 Regularization** and **Polynomial Features** to create an effective, non-linear classifier.
 
 ---
 
-## 🔬 The Core Math
+The Math
 
 * **Sigmoid Function:** Converts model output to a probability (0 to 1).
     $$
@@ -23,7 +23,7 @@ This project is a custom-built **Logistic Regression** model in Python to predic
 
 ---
 
-## 📊 Model Output
+Model Output
 
 * **Cost vs. Iterations:** Shows the cost decreasing as the model learns.
     
